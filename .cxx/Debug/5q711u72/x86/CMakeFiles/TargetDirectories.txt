@@ -1,0 +1,3 @@
+F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86/CMakeFiles/xeon_bsdiff.dir
+F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86/CMakeFiles/edit_cache.dir
+F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86/CMakeFiles/rebuild_cache.dir

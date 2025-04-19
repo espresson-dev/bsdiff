@@ -1,0 +1,52 @@
+[
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\blocksort.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\blocksort.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\blocksort.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\bzlib.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\bzlib.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\bzlib.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\compress.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\compress.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\compress.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\crctable.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\crctable.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\crctable.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\decompress.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\decompress.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\decompress.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\huffman.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\huffman.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\huffman.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bzip2\\randtable.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\randtable.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bzip2\\randtable.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bsdiff.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bsdiff.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bsdiff.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\bspatch.c.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bspatch.c",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\bspatch.c"
+},
+{
+  "directory": "F:/other/bsdiff-main/bsdiff/.cxx/Debug/5q711u72/x86",
+  "command": "D:\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dxeon_bsdiff_EXPORTS -IF:/other/bsdiff-main/bsdiff/src/main/cpp/bzip2 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\xeon_bsdiff.dir\\xeon_bsdiff.cpp.o -c F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\xeon_bsdiff.cpp",
+  "file": "F:\\other\\bsdiff-main\\bsdiff\\src\\main\\cpp\\xeon_bsdiff.cpp"
+}
+]
